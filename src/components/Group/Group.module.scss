@@ -1,0 +1,14 @@
+.element {
+  margin: 20px 0;
+  cursor: pointer;
+  &:hover {
+    color: white;
+    background-color: #059669;
+  }
+}
+
+.active {
+  background-color: #059669;
+  color: white;
+  cursor: pointer;
+}
